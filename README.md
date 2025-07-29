@@ -1,6 +1,6 @@
 I’m a 𝐌𝐞𝐜𝐡𝐚𝐭𝐫𝐨𝐧𝐢𝐜𝐬 & 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with ~𝟑 𝐲𝐞𝐚𝐫𝐬 of combined professional experience, including R&D internships and full-time engineering roles. I've designed, built, and deployed robotics hardware and embedded systems for various domains, including medical devices and industrial automation, directly improving efficiency by up to 80% and reducing defects by 30–50% in some deployments.
 
-# I specialize in integrating real-world sensor data, intelligent embedded platforms, and agile robotics hardware to address autonomy challenges. Recently, I:
+I specialize in integrating real-world sensor data, intelligent embedded platforms, and agile robotics hardware to address autonomy challenges. Recently, I:
 
 • 𝗛𝘆𝗯𝗿𝗶𝗱 𝗴𝗿𝗼𝘂𝗻𝗱/𝗮𝗲𝗿𝗶𝗮𝗹 𝗿𝗼𝗯𝗼𝘁 𝗳𝗼𝗿 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗶𝗼𝗻: Designed a dual-mode robot with 4-wheel mobility and quadcopter flight, integrated using ROS2, LiDAR, ultrasonic, and camera-based perception for warehouse and construction site inspection missions.
 • 𝗪𝗿𝗶𝘀𝘁 𝗿𝗲𝗵𝗮𝗯𝗶𝗹𝗶𝘁𝗮𝘁𝗶𝗼𝗻 𝗲𝘅𝗼𝘀𝗸𝗲𝗹𝗲𝘁𝗼𝗻: Built a mechatronics-based, ergonomically aligned exoskeleton using high-torque BLDC actuators, motion tracking sensors, and adaptive impedance control — delivering ±0.1 Nm precision for neurorehabilitation.
